@@ -10,7 +10,7 @@ using namespace sf; //Using namespace of SFML instead of std (standard)
 //Constants
 const int MyTiles = 100; //Max number of tiles allowed
 const int TimePerMove = 10; //Maximum allowed time per move in seconds
-const int HintsLimit = 5; //Max number of hints allowed
+const int HintsLimit = 6; //Max number of hints allowed
 const int Resolution_x = 1920, Resolution_y = 1080; //Resolution of game
 
 //Numeric Values
